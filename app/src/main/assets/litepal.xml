@@ -1,0 +1,9 @@
+<litepal>
+    <dbname value="qiez_weather"/>
+    <version value="1"/>
+    <list>
+        <mapping class="com.qiezweather.android.db.Province"/>
+        <mapping class="com.qiezweather.android.db.City"/>
+        <mapping class="com.qiezweather.android.db.County"/>
+    </list>
+</litepal>
